@@ -1,17 +1,30 @@
-### Hi there 👋
+### Hugo Santos - o melhor programador web já visto em território brasileiro. 🇧🇷🚀
 
-<!--
-**Cicodevada/Cicodevada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu repositório no GitHub! Eu sou Hugo Santos, um programador web Brasileiro. Anteriormente, atuei como programador no Exército Brasileiro, contribuindo para projetos desafiadores e cruciais.
 
-Here are some ideas to get you started:
+#### Experiência Profissional 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<style>body{background: #211D1B;}</style>
+- **Exército Brasileiro (Programador e Técnico de Informática e Redes)**
+  - Desenvolvimento de soluções web para missões críticas.
+  - Participação em cursos de cibersegurança na ESCOM - Escola de Comunicações do Exército Brasileiro (A MELHOR!).
+
+- **Supermercado Bahamas (Desenvolvedor de Sistemas)**
+  - Contribuições para o desenvolvimento de aplicações no ambiente do supermercado.
+
+- **Trabalho Independente**
+  - Atualmente, atuo de forma independente, trazendo minha experiência para projetos diversos.
+
+#### Formação Acadêmica 🎓
+
+- Cursos de cibersegurança na ESCOM - Escola de Comunicações do Exército Brasileiro.
+- Curso de Técnico de Informática no IF Sudeste MG Campus Juiz de Fora
+- Cursando Analise e Desenvolvimento de Sistemas na Faculdade Estácio
+
+#### Contato 📧
+
+- Email: hugosantoslisboa@gmail.com
+- Site: [hugosantos.lol](https://www.hugosantos.lol)
+- Contato: [WhatsApp](https://wa.me/5532999729896)
+- Instagram: [hugosantoslisboa](https://instagram.com/hugosantoslisboa)
+
+Sinta-se à vontade para explorar meus projetos aqui no GitHub e entrar em contato para colaborações ou discussões interessantes! 👨‍💻
