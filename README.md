@@ -5,7 +5,7 @@ Bem-vindo ao meu repositório no GitHub! Eu sou Hugo Santos, um programador web 
 #### Experiência Profissional 🛠️
 
 - **Exército Brasileiro (Programador e Técnico de Informática e Redes)**
-  - Desenvolvimento de soluções web para missões críticas.
+  - Desenvolvimento de soluções web e manutenção de computadores e rede.
   - Participação em cursos de cibersegurança na ESCOM - Escola de Comunicações do Exército Brasileiro (A MELHOR!).
 
 - **Supermercado Bahamas (Desenvolvedor de Sistemas)**
