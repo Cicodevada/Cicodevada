@@ -16,8 +16,8 @@ Bem-vindo ao meu repositório no GitHub! Eu sou Hugo Santos, um programador web 
 
 #### Formação Acadêmica 🎓
 
-✅ 2 Cursos de cibersegurança na ESCOM - Escola de Comunicações do Exército Brasileiro.
-✅ Curso de Técnico de Informática no IF Sudeste MG Campus Juiz de Fora.
+✅ 2 Cursos de cibersegurança na ESCOM - Escola de Comunicações do Exército Brasileiro.<br />
+✅ Curso de Técnico de Informática no IF Sudeste MG Campus Juiz de Fora.<br />
 ⌛ Cursando Analise e Desenvolvimento de Sistemas na Faculdade Estácio.
 
 #### Contato 📧
