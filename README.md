@@ -32,8 +32,8 @@
 
 ### Experiência Profissional
 
-<a href="https://www.linkedin.com/company/monteiro-de-castro-amaral-advocacia/" title="Monteiro de Castro Amaral Advocacia">
-  <img align="left" height="94px" width="94px" alt="Logo Monteiro de Castro" src="https://i.imgur.com/Wdz1H80.png" style="border-radius:15px;"/>
+<a href="https://www.monteirodecastro.com.br/" title="Monteiro de Castro Amaral Advocacia">
+  <img align="left" height="94px" width="94px" alt="Logo Monteiro de Castro" src="https://i.imgur.com/qFLp1KT.png" style="border-radius:15px;"/>
 </a>
 
 **Especialista em IA** \
@@ -44,7 +44,7 @@
 <br>
 
 <a href="https://cico.diy" title="Zeus Drive">
-  <img align="left" height="94px" width="94px" alt="Logo Zeus Drive" src="https://i.imgur.com/6M9xgzm.png" style="border-radius:15px;"/>
+  <img align="left" height="94px" width="94px" alt="Logo Zeus Drive" src="https://i.imgur.com/h81Nuta.png" style="border-radius:15px;"/>
 </a>
 
 **Fundador & Desenvolvedor Principal** \
@@ -54,9 +54,7 @@
 <br clear="left"/>
 <br>
 
-<a href="https://www.linkedin.com/company/tickpost/" title="Tickpost">
-  <img align="left" height="94px" width="94px" alt="Logo Tickpost" src="https://i.imgur.com/aHo7C1m.png" style="border-radius:15px;"/>
-</a>
+  <img align="left" height="94px" width="94px" alt="Logo Tickpost" src="https://i.imgur.com/86moyg1.png" style="border-radius:15px;"/>
 
 **Tech Lead (Educablue Team)** \
 [**Tickpost**](https://www.linkedin.com/company/tickpost/) • janeiro de 2025 - julho de 2025 \
@@ -65,8 +63,8 @@
 <br clear="left"/>
 <br>
 
-<a href="https://www.linkedin.com/company/governoweb/" title="GovernoWeb">
-  <img align="left" height="94px" width="94px" alt="Logo GovernoWeb" src="https://i.imgur.com/Uv84EO4.png" style="border-radius:15px;"/>
+<a href="https://governoweb.com.br/" title="GovernoWeb">
+  <img align="left" height="94px" width="94px" alt="Logo GovernoWeb" src="https://i.imgur.com/sugbTZx.png" style="border-radius:15px;"/>
 </a>
 
 **Desenvolvedor Full-Stack Sênior (GovTech & IA)** \
@@ -76,8 +74,8 @@
 <br clear="left"/>
 <br>
 
-<a href="https://www.linkedin.com/company/grupo-bahamas-s-a/" title="Grupo Bahamas S/A">
-  <img align="left" height="94px" width="94px" alt="Logo Grupo Bahamas" src="https://i.imgur.com/auuQBYI.png" style="border-radius:15px;"/>
+<a href="https://grupobahamas.com.br/" title="Grupo Bahamas S/A">
+  <img align="left" height="94px" width="94px" alt="Logo Grupo Bahamas" src="https://i.imgur.com/UcH5lTp.png" style="border-radius:15px;"/>
 </a>
 
 **Desenvolvedor de Sistemas** \
@@ -88,7 +86,7 @@
 <br>
 
 <a href="https://www.eb.mil.br/" title="Exército Brasileiro">
-  <img align="left" height="94px" width="94px" alt="Logo Exército Brasileiro" src="https://i.imgur.com/2PL0ZtA.png" style="border-radius:15px;"/>
+  <img align="left" height="94px" width="94px" alt="Logo Exército Brasileiro" src="https://i.imgur.com/yyHxasN.png" style="border-radius:15px;"/>
 </a>
 
 **Especialista em TI** \
