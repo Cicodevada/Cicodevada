@@ -3,9 +3,12 @@
 <p align="left"> 
   Olá! Sou Hugo Santos, Desenvolvedor Full-Stack Sênior e Especialista em PHP, Python & IA. Com mais de 8 anos de experiência, transformo ideias em sistemas robustos, escaláveis e inteligentes.
   <br><br>
-  Atualmente, meu foco principal é o <a href="https://cico.diy/" target="_blank"><b>Cico Coding</b></a>, uma plataforma de IA que criei para revolucionar o fluxo de trabalho de desenvolvedores. A ferramenta utiliza linguagem natural para gerar, depurar e otimizar código, funcionando como um assistente de programação sênior disponível 24/7.
+  Atualmente, meu foco é a <b>Cico Tech</b>, onde operamos no modelo <i>Dev Team as a Service</i> — entregando a robustez de uma equipe sênior com a agilidade de uma startup.
   <br><br>
-  <b>🚀 <a href="https://cico.diy/" target="_blank">Clique aqui para conhecer o Cico Coding e acelerar seu desenvolvimento!</a></b>
+  Somos os responsáveis pela tecnologia e evolução de projetos como: 
+  <a href="https://cico.diy">Cico Coding</a>, <a href="https://approle.com.br">App Role</a>, <a href="https://arenacash.lol">Arena Cash</a>, <a href="https://monteirodecastro.com.br">Monteiro de Castro e Amaral Advocacia</a> e <a href="https://sindicatosonline.com.br/son">Sindicatos Online</a>.
+  <br><br>
+  Não somos uma software house convencional (e nem queremos ser). O modelo tradicional de software house costuma ser sinônimo de custos inflados e cronogramas atrasados. Nós somos parceiros de execução: resolvemos problemas complexos com código de alta performance, sem enrolação e direto ao ponto.
 </p>
 
 ### Conecte-se comigo
@@ -32,12 +35,23 @@
 
 ### Experiência Profissional
 
-<a href="https://www.monteirodecastro.com.br/" title="Monteiro de Castro Amaral Advocacia">
+<a href="https://www.eb.mil.br/" title="Exército Brasileiro">
+  <img align="left" height="94px" width="94px" alt="Logo Exército Brasileiro" src="https://i.imgur.com/yyHxasN.png" style="border-radius:15px;"/>
+</a>
+
+**Tenente Especialista em IA** \
+[**Exército Brasileiro**](https://www.eb.mil.br/) • fevereiro de 2026 - Presente \
+**Linguagens & Tecnologias**: `Inteligência Artificial`, `Segurança de Dados`, `Estratégia Tecnológica` \
+**Projetos**: Liderança técnica no desenvolvimento de soluções inteligentes e análise de dados estratégicos para a força.
+<br clear="left"/>
+<br>
+
+<a href="https://monteirodecastro.com.br/" title="Monteiro de Castro Amaral Advocacia">
   <img align="left" height="94px" width="94px" alt="Logo Monteiro de Castro" src="https://i.imgur.com/qFLp1KT.png" style="border-radius:15px;"/>
 </a>
 
 **Especialista em IA** \
-[**Monteiro de Castro Amaral Advocacia**](https://www.linkedin.com/company/monteiro-de-castro-amaral-advocacia/) • julho de 2025 - Presente \
+[**Monteiro de Castro Amaral Advocacia**](https://monteirodecastro.com.br/) • julho de 2025 - Presente \
 **Linguagens & Tecnologias**: `Inteligência Artificial`, `Machine Learning` \
 **Projetos**: Software de extração e normalização de dados de folhas de pagamento e Webapp para adesão a ações coletivas.
 <br clear="left"/>
@@ -54,10 +68,12 @@
 <br clear="left"/>
 <br>
 
+<a href="https://www.linkedin.com/company/tick-post/posts/?feedView=all" title="Tickpost">
   <img align="left" height="94px" width="94px" alt="Logo Tickpost" src="https://i.imgur.com/86moyg1.png" style="border-radius:15px;"/>
+</a>
 
 **Tech Lead (Educablue Team)** \
-[**Tickpost**](https://www.linkedin.com/company/tickpost/) • janeiro de 2025 - julho de 2025 \
+[**Tickpost**](https://www.linkedin.com/company/tick-post/posts/?feedView=all) • janeiro de 2025 - julho de 2025 \
 **Linguagens & Tecnologias**: `PHP`, `HTML`, `CSS`, `Code Review` \
 **Projetos**: Estruturação de processos de Code Review para reduzir bugs e aumentar a estabilidade da plataforma.
 <br clear="left"/>
@@ -68,18 +84,18 @@
 </a>
 
 **Desenvolvedor Full-Stack Sênior (GovTech & IA)** \
-[**GovernoWeb**](https://www.linkedin.com/company/governoweb/) • setembro de 2024 - julho de 2025 \
+[**GovernoWeb**](https://governoweb.com.br/) • setembro de 2024 - julho de 2025 \
 **Linguagens & Tecnologias**: `Python`, `PHP`, `IA`, `Business Intelligence` \
 **Projetos**: Automação de redação de textos legislativos, GED com IA, painel de BI Eleitoral e Portal da Transparência.
 <br clear="left"/>
 <br>
 
-<a href="https://grupobahamas.com.br/" title="Grupo Bahamas S/A">
+<a href="https://bahamas.com.br/" title="Grupo Bahamas S/A">
   <img align="left" height="94px" width="94px" alt="Logo Grupo Bahamas" src="https://i.imgur.com/UcH5lTp.png" style="border-radius:15px;"/>
 </a>
 
 **Desenvolvedor de Sistemas** \
-[**Grupo Bahamas S/A**](https://www.linkedin.com/company/grupo-bahamas-s-a/) • janeiro de 2021 - fevereiro de 2022 \
+[**Grupo Bahamas S/A**](https://bahamas.com.br/) • janeiro de 2021 - fevereiro de 2022 \
 **Linguagens & Tecnologias**: `PHP`, `JavaScript`, `HTML`, `CSS`, `MySQL` \
 **Projetos**: Modernização de sistema legado (DOS para Web), migração de banco de dados e automação de relatórios.
 <br clear="left"/>
@@ -89,7 +105,7 @@
   <img align="left" height="94px" width="94px" alt="Logo Exército Brasileiro" src="https://i.imgur.com/yyHxasN.png" style="border-radius:15px;"/>
 </a>
 
-**Especialista em TI** \
+**Soldado Especialista em TI** \
 [**Exército Brasileiro**](https://www.eb.mil.br/) • março de 2020 - junho de 2021 \
 **Linguagens & Tecnologias**: `PHP`, `JavaScript`, `HTML`, `CSS`, `Redes` \
 **Projetos**: Aplicação de monitoramento de rede, manutenção de infraestrutura e automação de processos internos.
